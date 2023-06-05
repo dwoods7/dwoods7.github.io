@@ -1,5 +1,5 @@
 # dwoods7.github.io
-Lab-01: 
+[Lab-01:](https://github.com/dwoods7/cit281-lab-01) 
 
 -   Part 1: Install and setup your personal computer with the software tools required for this course
 
