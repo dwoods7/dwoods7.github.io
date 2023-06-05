@@ -11,7 +11,7 @@
 
 -   Part 5: Create your first Node.js server-side JavaScript file
 
-Lab-02
+[Lab-02](https://github.com/dwoods7/cit281-lab-02)
 
 -   Use CLI commands for directory and file manipulation
 
@@ -37,7 +37,7 @@ Lab-02
 
 -   Part 9: Repo files
 
-Lab-03
+[Lab-03](https://github.com/dwoods7/cit281-lab-03)
 
 -   Part 1: Practice refactoring JavaScript code to use more modern syntax
 
@@ -55,7 +55,7 @@ Lab-03
 
 -   Part 8: Examine code using the spread operator
 
-Lab-04
+[Lab-04](https://github.com/dwoods7/cit281-lab-04)
 
 -   Part 1: Create initial Fastify Node.js web server
 
@@ -69,7 +69,7 @@ Lab-04
 
 -   Part 6: Add a second route with query parameters, test, and commit
 
-Lab-05
+[Lab-05](https://github.com/dwoods7/cit281-lab-05)
 
 -   Part 1: Download and install Postman
 
