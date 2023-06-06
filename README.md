@@ -1,5 +1,5 @@
 # Daniel Woods CIT 281
-![Link Name](https://unsplash.com/photos/nTRDnDdDYk8))  
+![UO](https://www.insidehighered.com/sites/default/files/media/OregonImage.png)  
 [Lab-01](https://github.com/dwoods7/cit281-lab-01) 
 
 -   Part 1: Install and setup your personal computer with the software tools required for this course
