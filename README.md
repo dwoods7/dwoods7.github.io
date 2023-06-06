@@ -178,7 +178,7 @@ You will be creating three classes. The first class is the Shape class that will
 
 The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value.
 
-Project-07
+[Project-07](https://github.com/dwoods7/cit281-p7)
 
 -   Creating either an organization-level or user-level GitHub Page, and adding content to this Page. This Page will be the entry web page for your portfolio.
 
