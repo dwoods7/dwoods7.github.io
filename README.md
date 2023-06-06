@@ -1,5 +1,6 @@
-# dwoods7.github.io
-[Lab-01:](https://github.com/dwoods7/cit281-lab-01) 
+# Daniel Woods CIT 281
+![Link Name](https://unsplash.com/photos/nTRDnDdDYk8))  
+[Lab-01](https://github.com/dwoods7/cit281-lab-01) 
 
 -   Part 1: Install and setup your personal computer with the software tools required for this course
 
@@ -85,7 +86,7 @@
 
 -   Part 7: Use Postman and POST request
 
-Lab-06
+[Lab-06](https://github.com/dwoods7/cit281-lab-06)
 
 -   Part 1: Join GitHub and work through Introduction to GitHub course
 
@@ -101,7 +102,7 @@ Lab-06
 
 -   Part 7: Add ISBN and a delete book method
 
-Lab-07
+[Lab-07](https://github.com/dwoods7/cit281-lab-07)
 
 -   Part 1: Create your own GitHub organization for the CIT Minor
 
@@ -115,7 +116,7 @@ Lab-07
 
 -   Part 6: Push your changes to GitHub
 
-Lab-08
+[Lab-08](https://github.com/dwoods7/cit281-lab-08)
 
 -   Part 1: Create lab file and initialize Node.js folder
 
@@ -127,7 +128,7 @@ Lab-08
 
 -   Part 5: Fetch JSONPlaceholder data
 
-Lab-09
+[Lab-09](https://github.com/dwoods7/cit281-lab-09)
 
 -   Part 1: Create Learning Lab course/repo within your GitHub account
 
@@ -137,7 +138,7 @@ Lab-09
 
 -   Part 4: Download completed course repo as deliverable
 
-Project-01
+[Project-01](https://github.com/dwoods7/cit281-p1)
 
 -   Use the command line interface (CLI) of your operating system to create a number of folders
 
@@ -147,7 +148,7 @@ Project-01
 
 -   Create and execute a JavaScript files using Node.js and Visual Studio Code (VSCode) terminal and Run and Debug
 
-Project-02
+[Project-02](https://github.com/dwoods7/cit281-p2)
 
 -   Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)
 
@@ -159,19 +160,19 @@ Project-02
 
 -   Diff split screen
 
-Project-03
+[Project-03](https://github.com/dwoods7/cit281-p3)
 
 You will be creating a "coinage" code module that is capable of calculating the total value of coin objects. After completing the "coinage" code module functionality, you will then update the "server" code file as a true Node.js web server using the Fastify package. The updated "server" file will display an initial web page with web links to to test the "coinage" code. The initial web page will be loaded from a file.
 
-Project-04
+[Project-04](https://github.com/dwoods7/cit281-p4)
 
 You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
 
-Project-05
+[Project-05](https://github.com/dwoods7/cit281-p5)
 
 For this project, you will create a Monster Game program using classes. The game will create monsters with initial life values, and minimum life values for the monster to be alive. Once the game is running, each monster's life will be drained by a random amount, and the game will continue until all of the monsters have died. The game will include a delay before each life drain.
 
-Project-06
+[Project-06](https://github.com/dwoods7/cit281-p6)
 
 You will be creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class.
 
